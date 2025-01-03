@@ -1,0 +1,10 @@
+{
+    "name": "kdipippo/kathryn-testing",
+    "description": "PHP server for mocking",
+    "require": {
+        "pecee/simple-router": "^5.4"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.10"
+    }
+}
